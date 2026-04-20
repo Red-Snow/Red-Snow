@@ -1,20 +1,20 @@
 # 👋 Hello there! I'm Farman Ullah Khan (Red-Snow) 🛡️
 
-### **Forensic Architect | Embedded Systems Specialist | AI Practitioner**
+### **Satellite Communications Expert | Aerospace Electronics | AI Research Engineer**
 
 <p align="center">
-  <img src="https://readline.vercel.app/api/readme-typing?text=MS%20Computer%20Engineering%20(Researching%20RISC-V)...&text=Certified%20Ethical%20Hacker%20(CEH%20v12)%20Candidate...&text=FPGA%20%26%20Digital%20IC%20Design%20Expert...&text=IoT%20%26%20Cloud%20Integration%20Experience...&color=00f2ff&size=24" />
+  <img src="https://readline.vercel.app/api/readme-typing?text=Satellite%20Control%20%26%20Comm%20Systems%20Expert...&text=Aerospace%20High-Speed%20Multilayered%20PCB%20Designer...&text=Bio-Signal%20AI%20Researcher%20(Thesis:%20EDA%20Pain%20Estimation)...&text=Certified%20Ethical%20Hacker%20(CEH)%20Candidate...&text=International%20Computer%20Vision%20Consultant...&color=00f2ff&size=22" />
 </p>
 
 ---
 
-### 🛡️ About Me
-I am a specialized engineer focused on the intersection of **High-Performance Hardware** and **Secure Software Intelligence**. My work spans from the transistor level (Chip Design/FPGA) to distributed systems and applied IoT integration on both Public and Private Clouds.
+### 🛡️ Professional Profile
+I am a multi-disciplinary engineer specializing in **High-Reliability Hardware** and **Intelligent Signal Processing**. My expertise ranges from designing high-speed multilayered PCBs for **Aerospace Applications** to developing AI-driven healthcare solutions based on complex human bio-markers.
 
-- 🎓 **MS Computer Engineering** | *Expected 2026*
+- 🎓 **MS Computer Engineering** | *Thesis: Subject-Independent Pain Estimation using EDA*
 - 🎓 **BS Electronics Engineering**
-- 🛡️ **Cybersecurity:** [CEH] Certified Ethical Hacker Candidate (Expected: Next Month)
-- 🚀 **Specialization:** RISC-V Architecture, FPGA Design, and Advanced IoT Systems.
+- 🛰️ **Operations:** Expert in Satellite Control, Operations, and Communication Systems.
+- 🌍 **Impact:** Successfully delivered multiple international Computer Vision and Healthcare AI projects to global clients.
 
 ---
 
@@ -22,30 +22,30 @@ I am a specialized engineer focused on the intersection of **High-Performance Ha
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Silicon & Hardware** | ![FPGA](https://img.shields.io/badge/FPGA-Verilog/VHDL-blue?style=flat-square) ![RISC-V](https://img.shields.io/badge/Architecture-RISC--V-orange?style=flat-square) ![Micro-Processors](https://img.shields.io/badge/Embedded-MicroProcessors/Controllers-green?style=flat-square) |
-| **Applied Experience** | ![IoT](https://img.shields.io/badge/IoT-Architecture-00AEEF?style=flat-square) ![Cloud](https://img.shields.io/badge/Implementation-Cloud_Integration-white?style=flat-square) ![Security](https://img.shields.io/badge/Security-CEH-red?style=flat-square) |
-| **Artificial Intelligence** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Forensics** | ![Steganalysis](https://img.shields.io/badge/Research-Neural_Forensics-lightgrey?style=flat-square) ![Networking](https://img.shields.io/badge/Huawei-HCIP--Datacom-red?style=flat-square) |
+| **Silicon & Aerospace** | ![FPGA](https://img.shields.io/badge/FPGA-Verilog/VHDL-blue?style=flat-square) ![PCB](https://img.shields.io/badge/PCB-High--Speed_Multilayer_Aerospace-red?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-Architecture-orange?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-eb3b5a?style=flat-square) |
+| **Computer Vision & AI** | ![CV](https://img.shields.io/badge/Computer_Vision-International_Projects-green?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Healthcare_AI-FF6F00?style=flat-square) ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square) |
+| **Bio-Signals & IoT** | ![EDA](https://img.shields.io/badge/Thesis-EDA_Signal_Processing-8e44ad?style=flat-square) ![Pain Estimation](https://img.shields.io/badge/AI-Bio--Marker_Detection-27ae60?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-Architecture-00AEEF?style=flat-square) |
+| **Infrastructure** | ![CEH](https://img.shields.io/badge/Security-CEH-red?style=flat-square) ![Satellite](https://img.shields.io/badge/Expert-Satellite_Operations-blue?style=flat-square) ![Networking](https://img.shields.io/badge/Huawei-HCIP--Datacom-red?style=flat-square) |
 
 ---
 
-### 🏆 Professional Certifications & Domain Expertise
-*Validated certifications and research domains:*
+### 🧬 Research & Healthcare Intelligence
+I leverage AI to bridge the gap between human physiology and digital diagnostics:
+*   **MS Thesis:** Developing state-of-the-art models for *Subject-Independent Pain Estimation* using Electrodermal Activity (EDA).
+*   **Healthcare AI:** Proven experience analyzing bio-markers and physiological signals to detect and quantify patient distress.
+*   **Computer Vision:** Delivered robust image processing solutions for international clients across diverse industrial sectors.
+
+---
+
+### 🏆 Professional Certifications
+*Validated expertise and executive-level training:*
 
 - 🛡️ **EC-Council:** Certified Ethical Hacker (CEH) - *Candidate*
-- 🤖 **Stanford/DeepLearning.AI:** Machine Learning Specialization (Andrew Ng)
-- 📡 **China Satellite Comm:** PAKSAT-MM1 GCS Training
-- 💾 **Silicon Domain:** Chip Design Professionals Training
-- 🏙️ **UNDP/KPITB:** Cloudera Certified Associate - Big Data Analytics
+- 🛰️ **Carrier Ops:** Satellite Control, Operations & Communication Expert
+- 🤖 **Stanford/DeepLearning.AI:** Machine Learning Specialization
+- 💾 **Silicon Domain:** Advanced Chip Design & Verification
+- 🏙️ **Cloudera:** Big Data Analytics (CCA)
 - 🌐 **Huawei:** Certified ICT Professional (HCIP-Datacom)
-
----
-
-### 🏗️ Engineering Focus: Advanced IoT & Hardware
-My expertise involves the end-to-end design and deployment of sensitive IoT infrastructures:
-*   **Logical Architecture:** Custom design for Micro-Processors and FPGAs (Verilog/VHDL).
-*   **IoT Deployment:** Hands-on experience deploying device fleets across **Public and Private Clouds**.
-*   **Security Research:** Developing automated steganography detection engines for carrier files.
 
 ---
 

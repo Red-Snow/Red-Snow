@@ -1,55 +1,55 @@
 # 👋 Hello there! I'm Farman Ullah Khan (Red-Snow) 🛡️
 
-### **Satellite Communications Expert | Aerospace Electronics | AI Research Engineer**
+### **Forensic Research Engineer | Cybersecurity Specialist | Satellite Systems Expert**
 
 <p align="center">
-  <img src="https://readline.vercel.app/api/readme-typing?text=Satellite%20Control%20%26%20Comm%20Systems%20Expert...&text=Aerospace%20High-Speed%20Multilayered%20PCB%20Designer...&text=Bio-Signal%20AI%20Researcher%20(Thesis:%20EDA%20Pain%20Estimation)...&text=Certified%20Ethical%20Hacker%20(CEH)%20Candidate...&text=International%20Computer%20Vision%20Consultant...&color=00f2ff&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Subject-Independent+Automated+Pain+Assessment+using+EDA;Certified+Ethical+Hacker+(CEH)+-+Security+Auditor;High-Speed+Aerospace+Multilayered+PCB+Design;Satellite+Control%2C+Operations+%26+Communications+Expert;Neural+Forensics+%26+Digital+Steganalysis+Researcher" />
 </p>
 
 ---
 
 ### 🛡️ Professional Profile
-I am a multi-disciplinary engineer specializing in **High-Reliability Hardware** and **Intelligent Signal Processing**. My expertise ranges from designing high-speed multilayered PCBs for **Aerospace Applications** to developing AI-driven healthcare solutions based on complex human bio-markers.
+I am a specialized engineer operating at the intersection of **Hardware Integrity**, **Cybersecurity**, and **Bio-Medical AI**. My work involves securing digital infrastructures, designing aerospace-grade hardware, and developing state-of-the-art diagnostic models.
 
-- 🎓 **MS Computer Engineering** | *Thesis: Subject-Independent Pain Estimation using EDA*
+- 🎓 **MS Computer Engineering** | *Thesis: Subject-Independent Automated Pain Assessment using Electrodermal Activity*
 - 🎓 **BS Electronics Engineering**
-- 🛰️ **Operations:** Expert in Satellite Control, Operations, and Communication Systems.
-- 🌍 **Impact:** Successfully delivered multiple international Computer Vision and Healthcare AI projects to global clients.
+- 🛡️ **Cybersecurity:** Specializing in Digital Steganalysis, Network Security, and Penetration Testing.
+- ⚡ **Expertise:** FPGA (Verilog/VHDL), RISC-V, and High-Speed Multilayered PCB Design for Aerospace.
 
 ---
 
-### 🚀 Technical Arsenal
+### 🚀 Technical Arsenal & Cybersecurity Vault
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Silicon & Aerospace** | ![FPGA](https://img.shields.io/badge/FPGA-Verilog/VHDL-blue?style=flat-square) ![PCB](https://img.shields.io/badge/PCB-High--Speed_Multilayer_Aerospace-red?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-Architecture-orange?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-eb3b5a?style=flat-square) |
-| **Computer Vision & AI** | ![CV](https://img.shields.io/badge/Computer_Vision-International_Projects-green?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Healthcare_AI-FF6F00?style=flat-square) ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square) |
-| **Bio-Signals & IoT** | ![EDA](https://img.shields.io/badge/Thesis-EDA_Signal_Processing-8e44ad?style=flat-square) ![Pain Estimation](https://img.shields.io/badge/AI-Bio--Marker_Detection-27ae60?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-Architecture-00AEEF?style=flat-square) |
-| **Infrastructure** | ![CEH](https://img.shields.io/badge/Security-CEH-red?style=flat-square) ![Satellite](https://img.shields.io/badge/Expert-Satellite_Operations-blue?style=flat-square) ![Networking](https://img.shields.io/badge/Huawei-HCIP--Datacom-red?style=flat-square) |
+| **Cybersecurity** | ![CEH](https://img.shields.io/badge/Certification-CEH_v12_Candidate-red?style=flat-square) ![Forensics](https://img.shields.io/badge/Research-Neural_Forensics-blue?style=flat-square) ![Security](https://img.shields.io/badge/Field-Penetration_Testing-lightgrey?style=flat-square) |
+| **Silicon & Aerospace** | ![FPGA](https://img.shields.io/badge/Hardare-FPGA_Design-orange?style=flat-square) ![PCB](https://img.shields.io/badge/AeroSpace-Multilayer_PCB-blue?style=flat-square) ![MATLAB](https://img.shields.io/badge/Simulation-MATLAB-critical?style=flat-square) |
+| **Healthcare AI** | ![Thesis](https://img.shields.io/badge/Research-EDA_Pain_Assessment-purple?style=flat-square) ![Bio-Signals](https://img.shields.io/badge/Signal-Physiological_Processing-green?style=flat-square) ![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat-square) |
+| **Operations** | ![Satellite](https://img.shields.io/badge/Expert-Satellite_Operations-cyan?style=flat-square) ![Networking](https://img.shields.io/badge/Huawei-HCIP--Datacom-red?style=flat-square) ![Computer Vision](https://img.shields.io/badge/CV-International_Projects-green?style=flat-square) |
 
 ---
 
-### 🧬 Research & Healthcare Intelligence
-I leverage AI to bridge the gap between human physiology and digital diagnostics:
-*   **MS Thesis:** Developing state-of-the-art models for *Subject-Independent Pain Estimation* using Electrodermal Activity (EDA).
-*   **Healthcare AI:** Proven experience analyzing bio-markers and physiological signals to detect and quantify patient distress.
-*   **Computer Vision:** Delivered robust image processing solutions for international clients across diverse industrial sectors.
+### 🧬 Research: Automated Clinical Intelligence
+I am currently bridging human physiology and machine intelligence:
+*   **Thesis Focus:** Revolutionizing patient care through *Subject-Independent Automated Pain Assessment*. By utilizing Electrodermal Activity (EDA), my models quantify distress without relying on subjective reporting.
+*   **Bio-Markers:** Extensive experience in detecting and analyzing physiological markers to detect pain in diverse subjects.
+*   **International Consulting:** Delivered high-impact **Computer Vision** and image processing projects for global clients.
 
 ---
 
 ### 🏆 Professional Certifications
-*Validated expertise and executive-level training:*
+*Validated expertise in hardware, software, and secure operations:*
 
-- 🛡️ **EC-Council:** Certified Ethical Hacker (CEH) - *Candidate*
-- 🛰️ **Carrier Ops:** Satellite Control, Operations & Communication Expert
-- 🤖 **Stanford/DeepLearning.AI:** Machine Learning Specialization
-- 💾 **Silicon Domain:** Advanced Chip Design & Verification
+- 🛡️ **Cybersecurity:** Certified Ethical Hacker (CEH) - *Candidate*
+- 💾 **Chip Design:** Chip Design Professionals Training
+- 🛰️ **Space Ops:** Satellite Control, Operations and Communication Expert
+- 🤖 **Stanford:** Machine Learning Specialization
 - 🏙️ **Cloudera:** Big Data Analytics (CCA)
 - 🌐 **Huawei:** Certified ICT Professional (HCIP-Datacom)
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Intelligence Center
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Red-Snow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -68,5 +68,5 @@ I leverage AI to bridge the gap between human physiology and digital diagnostics
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=31CDCF&height=100&section=footer" />
 </p>

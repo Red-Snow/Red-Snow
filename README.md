@@ -22,7 +22,7 @@ I am a specialized engineer operating at the intersection of **Hardware Integrit
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Cybersecurity** | ![CEH](https://img.shields.io/badge/Certification-CEH_v12_Candidate-red?style=flat-square) ![Forensics](https://img.shields.io/badge/Research-Neural_Forensics-blue?style=flat-square) ![Security](https://img.shields.io/badge/Field-Penetration_Testing-lightgrey?style=flat-square) |
+| **Cybersecurity** | ![CEH](https://img.shields.io/badge/Certification-CEH_v13_Candidate-red?style=flat-square) ![Forensics](https://img.shields.io/badge/Research-Neural_Forensics-blue?style=flat-square) ![Security](https://img.shields.io/badge/Field-Penetration_Testing-lightgrey?style=flat-square) |
 | **Silicon & Aerospace** | ![FPGA](https://img.shields.io/badge/Hardare-FPGA_Design-orange?style=flat-square) ![PCB](https://img.shields.io/badge/AeroSpace-Multilayer_PCB-blue?style=flat-square) ![MATLAB](https://img.shields.io/badge/Simulation-MATLAB-critical?style=flat-square) |
 | **Healthcare AI** | ![Thesis](https://img.shields.io/badge/Research-EDA_Pain_Assessment-purple?style=flat-square) ![Bio-Signals](https://img.shields.io/badge/Signal-Physiological_Processing-green?style=flat-square) ![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat-square) |
 | **Operations** | ![Satellite](https://img.shields.io/badge/Expert-Satellite_Operations-cyan?style=flat-square) ![Networking](https://img.shields.io/badge/Huawei-HCIP--Datacom-red?style=flat-square) ![Computer Vision](https://img.shields.io/badge/CV-International_Projects-green?style=flat-square) |

@@ -11,7 +11,7 @@
 ### 🛡️ Professional Profile
 I am a specialized engineer operating at the intersection of **Hardware Integrity**, **Cybersecurity**, and **Bio-Medical AI**. My work involves securing digital infrastructures, designing aerospace-grade hardware, and developing state-of-the-art diagnostic models.
 
-- 🎓 **MS Computer Engineering** | *Thesis: Subject-Independent Automated Pain Assessment using Electrodermal Activity*
+- 🎓 **MS Computer Engineering** | *(In Progress)*
 - 🎓 **BS Electronics Engineering**
 - 🛡️ **Cybersecurity:** Specializing in Digital Steganalysis, Network Security, and Penetration Testing.
 

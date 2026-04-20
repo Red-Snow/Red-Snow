@@ -3,7 +3,7 @@
 ### **Forensic Research Engineer | Cybersecurity Specialist | Satellite Systems Expert**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Subject-Independent+Automated+Pain+Assessment+using+EDA;Certified+Ethical+Hacker+(CEH)+-+Security+Auditor;High-Speed+Aerospace+Multilayered+PCB+Design;Satellite+Control%2C+Operations+%26+Communications+Expert;Neural+Forensics+%26+Digital+Steganalysis+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Certified+Ethical+Hacker+(CEH)+-+Security+Auditor;Neural+Forensics+%26+Digital+Steganalysis+Researcher" />
 </p>
 
 ---
@@ -14,7 +14,6 @@ I am a specialized engineer operating at the intersection of **Hardware Integrit
 - 🎓 **MS Computer Engineering** | *Thesis: Subject-Independent Automated Pain Assessment using Electrodermal Activity*
 - 🎓 **BS Electronics Engineering**
 - 🛡️ **Cybersecurity:** Specializing in Digital Steganalysis, Network Security, and Penetration Testing.
-- ⚡ **Expertise:** FPGA (Verilog/VHDL), RISC-V, and High-Speed Multilayered PCB Design for Aerospace.
 
 ---
 

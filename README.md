@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Red-Snow 🛡️
 
-### **Forensic Research Engineer | Cybersecurity Specialist | Satellite Systems Expert**
+### **Forensic Research Engineer | Cybersecurity Specialist **
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=Certified+Ethical+Hacker+(CEH)+-+Security+Auditor;Neural+Forensics+%26+Digital+Steganalysis+Researcher" />

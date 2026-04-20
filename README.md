@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Farman Ullah Khan (Red-Snow) 🛡️
+# 👋 Hello there! I'm Red-Snow 🛡️
 
 ### **Forensic Research Engineer | Cybersecurity Specialist | Satellite Systems Expert**
 

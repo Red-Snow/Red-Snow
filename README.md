@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:1a1a2e&height=240&section=header&text=Red-Snow&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Security%20Researcher%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Ethical%20Hacker&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:1a1a2e&height=240&section=header&text=Red-Snow&fontSize=100&fontColor=ffffff&fontAlignY=42&desc=Offensive%20Security%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Deep%20Learning&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=FF3333&center=true&vCenter=true&width=800&lines=AI-Powered+Pentesting+%7C+MCP+Tooling;Security+Researcher+%26+Ethical+Hacker+(CEH);Deep+Learning+%7C+Signal+Processing+%7C+Forensics;Agentic+AI+%7C+Autonomous+Offensive+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=FF3333&center=true&vCenter=true&width=800&lines=Building+Autonomous+Offensive+Security;Developing+AI-Powered+Pentesting+Tooling;Decoding+Physiology+with+Deep+Learning;Automate+the+boring.+Hack+the+rest.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,31 +16,30 @@
 
 ---
 
-## 👤 About Me
+## 👤 Terminal
 
 ```python
-class RedSnow:
-    name       = "Farman Ullah Khan"
+class Operator:
     alias      = "Red-Snow"
-    location   = "Lahore, Pakistan 🇵🇰"
-    roles      = ["Security Researcher", "AI Engineer", "Ethical Hacker"]
-    education  = "MS Computer Engineering — AI Track @ COMSATS (In Progress)"
-    certs      = ["CEH — Certified Ethical Hacker", "Chip Design", "Space Ops", "Stanford ML"]
+    status     = "Active"
+    domain     = ["Offensive Security", "AI Engineering", "Signal Processing"]
+    
+    focus      = {
+        "building"    : "PhantomStrike — AI-powered MCP pentesting framework",
+        "researching" : "Physiological signal analysis via Conformer networks",
+        "exploring"   : "LLM tool-chaining for autonomous vulnerability discovery",
+    }
 
-    building   = "PhantomStrike — AI-powered MCP pentesting framework"
-    researching= "Physiological signal analysis with deep learning"
-    exploring  = "Agentic AI + LLM tool-use in offensive security"
-
-    interests  = ["Offensive Security", "AI/ML", "OSINT", "Forensics", "Steganography"]
-    motto      = "Automate the boring. Hack the rest."
+    interests  = ["Red Teaming", "Deep Learning", "OSINT", "Steganalysis"]
+    directives = ["Stay quiet", "Listen close", "Automate everything"]
 ```
 
-> I operate at the intersection of **Offensive Security**, **AI/ML**, and **Signal Processing** —  
-> building tools that let AI agents run penetration tests autonomously, and deep learning models that decode human physiology.
+> Operating at the intersection of **Cybersecurity** and **Artificial Intelligence**.  
+> Designing models that decode complex signals by day; building tools that let AI agents run autonomous penetration tests by night.
 
 ---
 
-## 🔥 Projects
+## 🔥 Operations & Projects
 
 <div align="center">
 
@@ -73,7 +72,7 @@ class RedSnow:
 
 ```
  User   →  "Scan 192.168.1.1 for open ports, then audit all web services for SQLi."
- Claude →  nmap (recon) → nikto (web audit) → sqlmap (injection) → structured report ✓
+ Agent  →  nmap (recon) → nikto (web audit) → sqlmap (injection) → structured report ✓
 ```
 
 <table>
@@ -117,7 +116,7 @@ class RedSnow:
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Arsenal
 
 <div align="center">
 
@@ -143,21 +142,19 @@ class RedSnow:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **AI Agent Ecosystem**
 
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B46C1?style=for-the-badge&labelColor=0d1117)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&labelColor=0d1117)
-![Gemini](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Telemetry
 
 <div align="center">
 
@@ -177,30 +174,28 @@ class RedSnow:
 
 ---
 
-## 🧠 Research
+## 📡 Signal Intelligence
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Deep Learning for Bio-Medical AI
-Researching **Conformer-based** (Convolution-augmented Transformer) architectures for physiological signal analysis and subject-independent pain assessment.
+### Physiological Deep Learning
+Researching Convolution-augmented Transformer (Conformer) architectures for physiological signal processing and assessment.
 
-- 🔬 Phasic / Tonic EDA decomposition
-- 📋 LOSO cross-validation protocol
-- 🧩 Hybrid CNN-LSTM + Attention architectures
-- 🏛️ MS Thesis @ COMSATS University
+- 🔬 Automated signal decomposition
+- 📋 Cross-validation on expansive datasets
+- 🧩 Hybrid neural network architectures
 
 </td>
 <td width="50%" valign="top">
 
 ### Agentic Security & Forensics
-Building **AI-native** offensive security and forensic analysis tools. From autonomous recon pipelines to hidden-data detection.
+Building AI-native offensive security and forensic analysis platforms. From autonomous recon to hidden-data detection.
 
-- 🤖 LLM tool-chaining for full pentest workflows
-- 🔌 Natural language → Kali tool execution
-- 🕵️ Steganography detection across file types
-- 🗺️ Browser-based OSINT simulation environments
+- 🤖 LLM tool-chaining for pentest workflows
+- 🔌 Natural language execution layers
+- 🕵️ Steganography detection across domains
 
 </td>
 </tr>
@@ -208,27 +203,7 @@ Building **AI-native** offensive security and forensic analysis tools. From auto
 
 ---
 
-## 🏅 Certifications
-
 <div align="center">
-
-![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-CC0000?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=1a1a1a)
-![Stanford](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=for-the-badge&labelColor=1a1a1a)
-![Huawei](https://img.shields.io/badge/Huawei-HCIP_Datacom-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white&labelColor=1a1a1a)
-![Cloudera](https://img.shields.io/badge/Cloudera-Big_Data_Analytics-EE7000?style=for-the-badge&logo=cloudera&logoColor=white&labelColor=1a1a1a)
-![Space](https://img.shields.io/badge/Expert-Satellite_Operations-1679A7?style=for-the-badge&logo=nasa&logoColor=white&labelColor=1a1a1a)
-![Chip](https://img.shields.io/badge/Chip_Design-Professionals_Training-6B46C1?style=for-the-badge&labelColor=1a1a1a)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40Red--Snow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Red-Snow)
-[![Email](https://img.shields.io/badge/Gmail-FarmanKhan001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:FarmanKhan001@gmail.com)
 
 <br/>
 

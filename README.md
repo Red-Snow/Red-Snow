@@ -120,6 +120,60 @@ class Operator:
 
 ---
 
+## 🔬 AI-Malware-Analyzer — Browser-Based Forensic Intelligence Platform
+
+<div align="center">
+
+> Advanced, **100% browser-based** Digital Forensics and Incident Response (DFIR) platform.  
+> Analyzes binaries, extracts IOCs, maps MITRE ATT&CK, and generates professional forensic reports using **10+ AI Models locally**.
+
+</div>
+
+```
+ User   →  Uploads suspicious executable (TotalAware3.exe)
+ Agent  →  Extracts Strings/PE Headers → Identifies NjRAT → MITRE Mapping → VirusTotal → PDF Report ✓
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔌 Supported AI Engines**
+- Google Gemini (Flash, Pro, Lite)
+- OpenAI (GPT-4o, Turbo)
+- Anthropic Claude (Opus, Sonnet, Haiku)
+- Groq (Llama 3.3 Ultra-Fast)
+- DeepSeek, xAI Grok, Mistral, Qwen
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Key Capabilities**
+- 100% Client-side (no server required)
+- PE Header parsing & Entropy analysis
+- Local Malware KB (25+ families offline)
+- VirusTotal Hash Integration
+- Professional PDF Evidence Reports
+
+</td>
+</tr>
+</table>
+
+| Category | Features |
+|:---------|:------|
+| 🧬 **Analysis** | String extraction · Magic byte detection · Obfuscation checks |
+| 🛡️ **Threat Intel** | MITRE ATT&CK mapping · Family classification · Severity scoring |
+| 📜 **Reporting** | A4 PDF exports · Chain of Custody tracking · JSON data dumps |
+| ⚡ **Offline Mode** | Instant heuristic pattern matching without internet/APIs |
+
+<div align="center">
+
+[![View AI Malware Analyzer](https://img.shields.io/badge/→%20%20AI%20Malware%20Analyzer%20on%20GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/AI-Malware-Analyzer)
+
+</div>
+
+---
+
 ## 🧰 Arsenal
 
 <div align="center">

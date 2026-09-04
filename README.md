@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=FF3333&center=true&vCenter=true&width=820&lines=Building+autonomous+offensive+security;Shipping+AI-native+pentesting+%26+DFIR+tooling;Decoding+physiology+with+deep+learning;Automate+the+boring.+Hack+the+rest.)](https://github.com/Red-Snow)
 
-<br/>
-
 [![Followers](https://img.shields.io/github/followers/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Red-Snow?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=STARS)](https://github.com/Red-Snow?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=Red-Snow&style=for-the-badge&color=FF3333&labelColor=0d1117&label=VIEWS)](https://github.com/Red-Snow)
 [![Focus](https://img.shields.io/badge/FOCUS-AI%20%C3%97%20SECURITY-FF3333?style=for-the-badge&labelColor=0d1117)](https://github.com/Red-Snow?tab=repositories)
 
@@ -42,34 +39,64 @@ class Operator:
 
 ## Operations
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Red-Snow/phantomstrike">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=phantomstrike&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Red-Snow/AI-Malware-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=AI-Malware-Analyzer&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
-</a>
+### [PhantomStrike](https://github.com/Red-Snow/phantomstrike)
 
-<br/><br/>
+MCP server that hands any AI agent a full Kali toolchain — natural
+language in, structured multi-step pentest out.
 
-<a href="https://github.com/Red-Snow/StegInsight-Forensics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=StegInsight-Forensics&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Red-Snow/redsnow-recon-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=redsnow-recon-toolkit&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
-</a>
+`Python` · `FastAPI` · `MCP` · `Docker`
 
-</div>
+[![Stars](https://img.shields.io/github/stars/Red-Snow/phantomstrike?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/phantomstrike?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/phantomstrike/commits)
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **[PhantomStrike](https://github.com/Red-Snow/phantomstrike)** | MCP server that hands any AI agent a full Kali toolchain — natural language in, structured multi-step pentest out | `Python` · `FastAPI` · `MCP` · `Docker` |
-| **[AI-Malware-Analyzer](https://github.com/Red-Snow/AI-Malware-Analyzer)** | 100% client-side DFIR platform — PE parsing, IOC extraction, MITRE ATT&CK mapping, PDF evidence reports | `JavaScript` · `10+ LLM APIs` |
-| **[StegInsight-Forensics](https://github.com/Red-Snow/StegInsight-Forensics)** | Steganography detection across text, image and audio/video carriers | `TypeScript` · `DSP` |
-| **[redsnow-recon-toolkit](https://github.com/Red-Snow/redsnow-recon-toolkit)** | Browser-based recon/OSINT simulation lab with an AI cyber mentor | `TypeScript` · `LLM` |
+</td>
+<td width="50%" valign="top">
+
+### [AI-Malware-Analyzer](https://github.com/Red-Snow/AI-Malware-Analyzer)
+
+100% client-side DFIR platform — PE parsing, IOC extraction,
+MITRE ATT&CK mapping, PDF evidence reports.
+
+`JavaScript` · `10+ LLM engines` · `Zero-backend`
+
+[![Stars](https://img.shields.io/github/stars/Red-Snow/AI-Malware-Analyzer?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/AI-Malware-Analyzer/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/AI-Malware-Analyzer?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/AI-Malware-Analyzer/commits)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [StegInsight-Forensics](https://github.com/Red-Snow/StegInsight-Forensics)
+
+Steganography detection across text, image and audio/video
+carriers, built for forensic triage.
+
+`TypeScript` · `DSP` · `Entropy analysis`
+
+[![Stars](https://img.shields.io/github/stars/Red-Snow/StegInsight-Forensics?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/StegInsight-Forensics/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/StegInsight-Forensics?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/StegInsight-Forensics/commits)
+
+</td>
+<td width="50%" valign="top">
+
+### [redsnow-recon-toolkit](https://github.com/Red-Snow/redsnow-recon-toolkit)
+
+Browser-based recon and OSINT simulation lab with interactive
+threat analysis and an AI cyber mentor.
+
+`TypeScript` · `OSINT` · `LLM`
+
+[![Stars](https://img.shields.io/github/stars/Red-Snow/redsnow-recon-toolkit?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/redsnow-recon-toolkit/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/redsnow-recon-toolkit?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/redsnow-recon-toolkit/commits)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -220,17 +247,7 @@ class Operator:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Red-Snow&show_icons=true&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Snow&layout=compact&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&text_color=c9d1d9&hide_border=false&langs_count=8" height="175"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Red-Snow&theme=dark&background=0d1117&border=FF3333&ring=FF3333&fire=FF6666&currStreakLabel=FF3333&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Red-Snow&bg_color=0d1117&color=FF3333&line=FF3333&point=ffffff&area=true&area_color=FF333322&hide_border=false&border_color=FF3333" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Red-Snow&theme=dark&background=0d1117&border=FF3333&ring=FF3333&fire=FF6666&currStreakLabel=FF3333&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 
 </div>
 
@@ -272,7 +289,7 @@ recon to hidden-data detection.
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Red--Snow-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow)
-[![Issues](https://img.shields.io/badge/Open%20an%20Issue-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/issues)
+[![Open an Issue](https://img.shields.io/badge/Open%20an%20Issue-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/issues)
 
 <br/>
 

@@ -103,13 +103,13 @@ analysis, simulated probes, and an AI cyber mentor.
 
 ```mermaid
 flowchart LR
-    U(["Operator"]) -->|plain English| A["AI Agent<br/><sub>Claude · Cursor · Copilot · Gemini</sub>"]
-    A <-->|MCP| P["PhantomStrike<br/><sub>FastAPI · async job queue</sub>"]
-    P --> R["Recon<br/><sub>nmap · rustscan · masscan</sub>"]
-    P --> W["Web<br/><sub>nuclei · sqlmap · ffuf · nikto</sub>"]
-    P --> O["OSINT<br/><sub>subfinder · amass</sub>"]
-    P --> S["run_kali_shell<br/><sub>any Kali command</sub>"]
-    R --> J["Structured JSON<br/><sub>+ SQLite scan history</sub>"]
+    U(["Operator"]) -->|plain English| A["AI Agent<br/>Claude · Cursor · Copilot · Gemini"]
+    A <-->|MCP| P["PhantomStrike<br/>FastAPI · async job queue"]
+    P --> R["Recon<br/>nmap · rustscan · masscan"]
+    P --> W["Web<br/>nuclei · sqlmap · ffuf · nikto"]
+    P --> O["OSINT<br/>subfinder · amass"]
+    P --> S["run_kali_shell<br/>any Kali command"]
+    R --> J["Structured JSON<br/>+ SQLite scan history"]
     W --> J
     O --> J
     S --> J

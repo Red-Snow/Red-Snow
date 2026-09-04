@@ -4,8 +4,8 @@
       <stop offset="0" stop-color="#FFFFFF"/>
       <stop offset="1" stop-color="#EEF1F6"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.14" cy="0.08" r="0.8">
-      <stop offset="0" stop-color="#FF2D2D" stop-opacity="0.16"/>
+    <radialGradient id="glow" cx="0.12" cy="0.05" r="0.66">
+      <stop offset="0" stop-color="#FF2D2D" stop-opacity="0.13"/>
       <stop offset="1" stop-color="#FF2D2D" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
@@ -18,7 +18,7 @@
       <stop offset="1" stop-color="#FF2D2D" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#E02424" stop-opacity="0.32"/>
+      <stop offset="0" stop-color="#E02424" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#E02424" stop-opacity="0"/>
     </linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">

@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:1a1a2e&height=240&section=header&text=Red-Snow&fontSize=100&fontColor=ffffff&fontAlignY=42&desc=Offensive%20Security%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Deep%20Learning&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d1117&height=240&section=header&text=Red-Snow&fontSize=100&fontColor=ffffff&fontAlignY=42&desc=Offensive%20Security%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Deep%20Learning&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=FF3333&center=true&vCenter=true&width=820&lines=Building+autonomous+offensive+security;Shipping+AI-native+pentesting+%26+DFIR+tooling;Decoding+physiology+with+deep+learning;Automate+the+boring.+Hack+the+rest.)](https://github.com/Red-Snow)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=FF3333&center=true&vCenter=true&width=800&lines=Building+Autonomous+Offensive+Security;Developing+AI-Powered+Pentesting+Tooling;Decoding+Physiology+with+Deep+Learning;Automate+the+boring.+Hack+the+rest.)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=Followers)](https://github.com/Red-Snow)
-[![GitHub Stars](https://img.shields.io/github/stars/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=Stars)](https://github.com/Red-Snow)
-![Profile Views](https://komarev.com/ghpvc/?username=Red-Snow&style=for-the-badge&color=FF3333&labelColor=0d1117&label=VIEWS)
+[![Followers](https://img.shields.io/github/followers/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Red-Snow?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=STARS)](https://github.com/Red-Snow?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=Red-Snow&style=for-the-badge&color=FF3333&labelColor=0d1117&label=VIEWS)](https://github.com/Red-Snow)
+[![Focus](https://img.shields.io/badge/FOCUS-AI%20%C3%97%20SECURITY-FF3333?style=for-the-badge&labelColor=0d1117)](https://github.com/Red-Snow?tab=repositories)
 
 </div>
 
 ---
 
-## 👤 Terminal
+## Terminal
 
 ```python
 class Operator:
-    alias      = "Red-Snow"
-    status     = "Active"
-    domain     = ["Offensive Security", "AI Engineering", "Signal Processing"]
-    
-    focus      = {
+    alias   = "Red-Snow"
+    status  = "Active"
+    domain  = ["Offensive Security", "AI Engineering", "Signal Processing"]
+
+    focus = {
         "building"    : "PhantomStrike — AI-powered MCP pentesting framework",
-        "researching" : "Physiological signal analysis via Conformer networks",
+        "shipping"    : "AI-Malware-Analyzer — browser-native DFIR platform",
+        "researching" : "Conformer networks for physiological signal analysis",
         "exploring"   : "LLM tool-chaining for autonomous vulnerability discovery",
     }
 
@@ -34,12 +34,13 @@ class Operator:
     directives = ["Stay quiet", "Listen close", "Automate everything"]
 ```
 
-> Operating at the intersection of **Cybersecurity** and **Artificial Intelligence**.  
-> Designing models that decode complex signals by day; building tools that let AI agents run autonomous penetration tests by night.
+> Operating at the intersection of **cybersecurity** and **artificial intelligence** — designing
+> models that decode complex signals by day, building tools that let AI agents run autonomous
+> penetration tests by night.
 
 ---
 
-## 🔥 Operations & Projects
+## Operations
 
 <div align="center">
 
@@ -47,8 +48,8 @@ class Operator:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=phantomstrike&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
 </a>
 &nbsp;
-<a href="https://github.com/Red-Snow/redsnow-recon-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=redsnow-recon-toolkit&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
+<a href="https://github.com/Red-Snow/AI-Malware-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=AI-Malware-Analyzer&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
 </a>
 
 <br/><br/>
@@ -57,24 +58,31 @@ class Operator:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=StegInsight-Forensics&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
 </a>
 &nbsp;
-<a href="https://github.com/Red-Snow/AI-Malware-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=AI-Malware-Analyzer&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
+<a href="https://github.com/Red-Snow/redsnow-recon-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Snow&repo=redsnow-recon-toolkit&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&hide_border=false" />
 </a>
 
 </div>
 
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[PhantomStrike](https://github.com/Red-Snow/phantomstrike)** | MCP server that hands any AI agent a full Kali toolchain — natural language in, structured multi-step pentest out | `Python` · `FastAPI` · `MCP` · `Docker` |
+| **[AI-Malware-Analyzer](https://github.com/Red-Snow/AI-Malware-Analyzer)** | 100% client-side DFIR platform — PE parsing, IOC extraction, MITRE ATT&CK mapping, PDF evidence reports | `JavaScript` · `10+ LLM APIs` |
+| **[StegInsight-Forensics](https://github.com/Red-Snow/StegInsight-Forensics)** | Steganography detection across text, image and audio/video carriers | `TypeScript` · `DSP` |
+| **[redsnow-recon-toolkit](https://github.com/Red-Snow/redsnow-recon-toolkit)** | Browser-based recon/OSINT simulation lab with an AI cyber mentor | `TypeScript` · `LLM` |
+
 ---
 
-## 🛡️ PhantomStrike — AI-Powered MCP Pentesting Framework
+## PhantomStrike — AI-Powered MCP Pentesting Framework
 
 <div align="center">
 
-> Connect **any MCP-compatible AI agent** to a full Kali Linux environment.  
-> Natural language → structured, multi-step penetration tests. No switching terminals. No manual chaining.
+> Connect **any MCP-compatible AI agent** to a full Kali Linux environment.<br/>
+> Natural language → structured, multi-step penetration tests. No terminal switching. No manual chaining.
 
 </div>
 
-```
+```text
  User   →  "Scan 192.168.1.1 for open ports, then audit all web services for SQLi."
  Agent  →  nmap (recon) → nikto (web audit) → sqlmap (injection) → structured report ✓
 ```
@@ -83,7 +91,7 @@ class Operator:
 <tr>
 <td width="50%" valign="top">
 
-**🔌 Supported AI Clients**
+**Supported AI clients**
 - Claude Desktop (macOS + Windows)
 - Cursor IDE (all platforms)
 - VS Code + GitHub Copilot
@@ -93,9 +101,9 @@ class Operator:
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Key Capabilities**
+**Key capabilities**
 - 12 structured plugins — parsed JSON output
-- `run_kali_shell` — run *any* Kali command via AI
+- `run_kali_shell` — any Kali command via AI
 - All-in-Kali · Split (Host+VM) · Docker deploy
 - Async job queue · SQLite scan history
 - FastAPI backend · OpenAPI docs
@@ -105,12 +113,12 @@ class Operator:
 </table>
 
 | Category | Tools |
-|:---------|:------|
-| 🌐 **Network** | `nmap` · `rustscan` · `masscan` |
-| 🕸️ **Web App** | `nuclei` · `gobuster` · `sqlmap` · `ffuf` · `nikto` |
-| 🔍 **OSINT** | `subfinder` · `amass` |
-| 🔑 **Password** | `hydra` |
-| ☁️ **Cloud** | `trivy` |
+|:--|:--|
+| **Network** | `nmap` · `rustscan` · `masscan` |
+| **Web App** | `nuclei` · `gobuster` · `sqlmap` · `ffuf` · `nikto` |
+| **OSINT** | `subfinder` · `amass` |
+| **Password** | `hydra` |
+| **Cloud** | `trivy` |
 
 <div align="center">
 
@@ -120,51 +128,44 @@ class Operator:
 
 ---
 
-## 🔬 AI-Malware-Analyzer — Browser-Based Forensic Intelligence Platform
+## AI-Malware-Analyzer — Browser-Native Forensic Intelligence
 
 <div align="center">
 
-> Advanced, **100% browser-based** Digital Forensics and Incident Response (DFIR) platform.  
-> Analyzes binaries, extracts IOCs, maps MITRE ATT&CK, and generates professional forensic reports using **10+ AI Models locally**.
+> A full DFIR workflow that never leaves the browser tab.<br/>
+> Analyzes binaries, extracts IOCs, maps MITRE ATT&CK, and generates professional forensic reports.
 
 </div>
 
-```
- User   →  Uploads suspicious executable (TotalAware3.exe)
- Agent  →  Extracts Strings/PE Headers → Identifies NjRAT → MITRE Mapping → VirusTotal → PDF Report ✓
+```text
+ User   →  Uploads a suspicious executable
+ Agent  →  Strings / PE headers → family classification → MITRE mapping → VirusTotal → PDF report ✓
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔌 Supported AI Engines**
-- Google Gemini (Flash, Pro, Lite)
-- OpenAI (GPT-4o, Turbo)
-- Anthropic Claude (Opus, Sonnet, Haiku)
-- Groq (Llama 3.3 Ultra-Fast)
-- DeepSeek, xAI Grok, Mistral, Qwen
+**Analysis engines**
+- Google Gemini (Flash · Pro · Lite)
+- OpenAI (GPT-4o · Turbo)
+- Anthropic Claude (Opus · Sonnet · Haiku)
+- Groq (Llama 3.3, ultra-fast)
+- DeepSeek · xAI Grok · Mistral · Qwen
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Key Capabilities**
-- 100% Client-side (no server required)
-- PE Header parsing & Entropy analysis
-- Local Malware KB (25+ families offline)
-- VirusTotal Hash Integration
-- Professional PDF Evidence Reports
+**Key capabilities**
+- 100% client-side — no server, no upload
+- PE header parsing & entropy analysis
+- Offline malware KB (25+ families)
+- VirusTotal hash enrichment
+- A4 PDF reports · chain-of-custody tracking
 
 </td>
 </tr>
 </table>
-
-| Category | Features |
-|:---------|:------|
-| 🧬 **Analysis** | String extraction · Magic byte detection · Obfuscation checks |
-| 🛡️ **Threat Intel** | MITRE ATT&CK mapping · Family classification · Severity scoring |
-| 📜 **Reporting** | A4 PDF exports · Chain of Custody tracking · JSON data dumps |
-| ⚡ **Offline Mode** | Instant heuristic pattern matching without internet/APIs |
 
 <div align="center">
 
@@ -174,7 +175,7 @@ class Operator:
 
 ---
 
-## 🧰 Arsenal
+## Arsenal
 
 <div align="center">
 
@@ -185,6 +186,7 @@ class Operator:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7192E?style=for-the-badge&labelColor=0d1117)
 
 **AI & Machine Learning**
 
@@ -197,32 +199,34 @@ class Operator:
 **Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI Agent Ecosystem**
+**Agent Ecosystem**
 
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B46C1?style=for-the-badge&labelColor=0d1117)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&labelColor=0d1117)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Telemetry
+## Telemetry
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Red-Snow&show_icons=true&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Snow&layout=compact&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&text_color=c9d1d9&hide_border=false" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Snow&layout=compact&theme=dark&bg_color=0d1117&border_color=FF3333&title_color=FF3333&text_color=c9d1d9&hide_border=false&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Red-Snow&theme=dark&background=0d1117&border=FF3333&ring=FF3333&fire=FF6666&currStreakLabel=FF3333&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Red-Snow&theme=dark&background=0d1117&border=FF3333&ring=FF3333&fire=FF6666&currStreakLabel=FF3333&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
@@ -232,28 +236,30 @@ class Operator:
 
 ---
 
-## 📡 Signal Intelligence
+## Signal Intelligence
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Physiological Deep Learning
-Researching Convolution-augmented Transformer (Conformer) architectures for physiological signal processing and assessment.
+Convolution-augmented Transformer (Conformer) architectures for physiological
+signal processing and assessment.
 
-- 🔬 Automated signal decomposition
-- 📋 Cross-validation on expansive datasets
-- 🧩 Hybrid neural network architectures
+- Automated signal decomposition
+- Cross-validation on expansive datasets
+- Hybrid neural network architectures
 
 </td>
 <td width="50%" valign="top">
 
 ### Agentic Security & Forensics
-Building AI-native offensive security and forensic analysis platforms. From autonomous recon to hidden-data detection.
+AI-native offensive security and forensic analysis platforms — from autonomous
+recon to hidden-data detection.
 
-- 🤖 LLM tool-chaining for pentest workflows
-- 🔌 Natural language execution layers
-- 🕵️ Steganography detection across domains
+- LLM tool-chaining for pentest workflows
+- Natural-language execution layers
+- Steganography detection across carriers
 
 </td>
 </tr>
@@ -263,12 +269,17 @@ Building AI-native offensive security and forensic analysis platforms. From auto
 
 <div align="center">
 
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Red--Snow-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow)
+[![Issues](https://img.shields.io/badge/Open%20an%20Issue-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/issues)
+
 <br/>
 
 *"The quieter you become, the more you are able to hear."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8B0000,100:FF0000&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:FF0000&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

@@ -24,7 +24,7 @@ Red-Snow — offensive security engineer · AI tooling builder
 $ cat ./focus.md
 [1] PhantomStrike ........ AI agents that run real penetration tests
 [2] AI-Malware-Analyzer .. browser-native DFIR, zero backend
-[3] Research ............. Conformer networks for physiological signals
+[3] Research ............. convolution-augmented Transformers for physiological signal analysis.
 ```
 
 I build the layer between AI agents and real security work — MCP servers, structured tool

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Red-Snow — Offensive Security, Agentic AI, Signal Intelligence">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0D13"/>
+      <stop offset="1" stop-color="#12161F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.14" cy="0.08" r="0.8">
+      <stop offset="0" stop-color="#FF2D2D" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FF2D2D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF5252"/>
+      <stop offset="1" stop-color="#B00020"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2D2D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF6B6B" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF2D2D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF3333" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#FF3333" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+
+    <!-- radar -->
+    <g transform="translate(985 150)" fill="none" stroke="#FF3333">
+      <circle r="44"  stroke-opacity="0.16"/>
+      <circle r="78"  stroke-opacity="0.13"/>
+      <circle r="112" stroke-opacity="0.10"/>
+      <path d="M-124 0H124M0 -124V124" stroke-opacity="0.10"/>
+      <circle r="130" stroke-opacity="0.22" stroke-dasharray="2 9">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="48s" repeatCount="indefinite"/>
+      </circle>
+      <g>
+        <path d="M0 0 L112 0 A112 112 0 0 1 79.2 79.2 Z" fill="url(#sweep)" stroke="none"/>
+        <path d="M0 0 L112 0" stroke="#FF6B6B" stroke-opacity="0.55" stroke-width="1.5"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+      </g>
+      <g stroke="none" fill="#FF7A7A">
+        <circle cx="58" cy="-36" r="3.2">
+          <animate attributeName="opacity" values="0;1;1;0" dur="7s" begin="0.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="-44" cy="62" r="2.6">
+          <animate attributeName="opacity" values="0;1;1;0" dur="7s" begin="3.1s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="-88" cy="-30" r="2.2">
+          <animate attributeName="opacity" values="0;1;1;0" dur="7s" begin="5.2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <!-- status chip -->
+    <g>
+      <rect x="64" y="40" width="122" height="26" rx="13" fill="#FF2D2D" fill-opacity="0.10" stroke="#FF2D2D" stroke-opacity="0.35"/>
+      <circle cx="81" cy="53" r="3.5" fill="#FF5252">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="94" y="57.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.6" fill="#FF9494">ACTIVE</text>
+    </g>
+
+    <!-- wordmark -->
+    <text x="64" y="150" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="76" font-weight="700" letter-spacing="1">
+      <tspan fill="url(#red)">RED</tspan><tspan fill="#FF3333">-</tspan><tspan fill="#F0F6FC">SNOW</tspan>
+    </text>
+
+    <rect x="66" y="171" width="96" height="3" rx="1.5" fill="url(#red)"/>
+
+    <text x="64" y="209" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="14" letter-spacing="3.4" fill="#8B949E">OFFENSIVE SECURITY &#183; AGENTIC AI &#183; SIGNAL INTELLIGENCE</text>
+
+    <text x="64" y="244" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="16.5" fill="#C9D1D9">Building the layer where AI agents do real security work.</text>
+
+    <!-- base bar -->
+    <rect y="296" width="1200" height="4" fill="#FF2D2D" fill-opacity="0.22"/>
+    <rect y="296" width="360" height="4" fill="url(#shimmer)">
+      <animate attributeName="x" values="-360;1200" dur="6.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

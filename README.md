@@ -1,98 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d1117&height=240&section=header&text=Red-Snow&fontSize=100&fontColor=ffffff&fontAlignY=42&desc=Offensive%20Security%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Deep%20Learning&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Red-Snow — Offensive Security · Agentic AI · Signal Intelligence" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=FF3333&center=true&vCenter=true&width=820&lines=Building+autonomous+offensive+security;Shipping+AI-native+pentesting+%26+DFIR+tooling;Decoding+physiology+with+deep+learning;Automate+the+boring.+Hack+the+rest.)](https://github.com/Red-Snow)
+<br/>
 
-[![Followers](https://img.shields.io/github/followers/Red-Snow?style=for-the-badge&logo=github&color=FF3333&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Red-Snow?tab=followers)
-[![Views](https://komarev.com/ghpvc/?username=Red-Snow&style=for-the-badge&color=FF3333&labelColor=0d1117&label=VIEWS)](https://github.com/Red-Snow)
-[![Focus](https://img.shields.io/badge/FOCUS-AI%20%C3%97%20SECURITY-FF3333?style=for-the-badge&labelColor=0d1117)](https://github.com/Red-Snow?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Red-Snow?style=flat-square&logo=github&color=FF3333&labelColor=0d1117&label=followers)](https://github.com/Red-Snow?tab=followers)
+[![Views](https://komarev.com/ghpvc/?username=Red-Snow&style=flat-square&color=FF3333&labelColor=0d1117&label=profile+views)](https://github.com/Red-Snow)
+[![Focus](https://img.shields.io/badge/focus-AI%20%C3%97%20offensive%20security-FF3333?style=flat-square&labelColor=0d1117)](#featured-work)
+[![Stack](https://img.shields.io/badge/stack-Python%20%C2%B7%20TypeScript%20%C2%B7%20MCP-FF3333?style=flat-square&labelColor=0d1117)](#toolkit)
 
 </div>
 
 ---
 
-## Terminal
+```console
+$ whoami
+Red-Snow — offensive security engineer · AI tooling builder
 
-```python
-class Operator:
-    alias   = "Red-Snow"
-    status  = "Active"
-    domain  = ["Offensive Security", "AI Engineering", "Signal Processing"]
-
-    focus = {
-        "building"    : "PhantomStrike — AI-powered MCP pentesting framework",
-        "shipping"    : "AI-Malware-Analyzer — browser-native DFIR platform",
-        "researching" : "Conformer networks for physiological signal analysis",
-        "exploring"   : "LLM tool-chaining for autonomous vulnerability discovery",
-    }
-
-    interests  = ["Red Teaming", "Deep Learning", "OSINT", "Steganalysis"]
-    directives = ["Stay quiet", "Listen close", "Automate everything"]
+$ cat ./focus.md
+[1] PhantomStrike ........ AI agents that run real penetration tests
+[2] AI-Malware-Analyzer .. browser-native DFIR, zero backend
+[3] Research ............. Conformer networks for physiological signals
 ```
 
-> Operating at the intersection of **cybersecurity** and **artificial intelligence** — designing
-> models that decode complex signals by day, building tools that let AI agents run autonomous
-> penetration tests by night.
+I build the layer between AI agents and real security work — MCP servers, structured tool
+output, and forensic pipelines that return evidence instead of guesses. On the research side:
+convolution-augmented Transformers for physiological signal analysis.
 
 ---
 
-## Operations
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [PhantomStrike](https://github.com/Red-Snow/phantomstrike)
+### ⚡ [PhantomStrike](https://github.com/Red-Snow/phantomstrike)
 
-MCP server that hands any AI agent a full Kali toolchain — natural
-language in, structured multi-step pentest out.
+An MCP server that hands any AI agent a full Kali toolchain.
+Natural language in, structured multi-step pentest out.
 
-`Python` · `FastAPI` · `MCP` · `Docker`
+<sub>`Python` · `FastAPI` · `MCP` · `Docker`</sub>
 
 [![Stars](https://img.shields.io/github/stars/Red-Snow/phantomstrike?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/phantomstrike?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/phantomstrike/commits)
+[![Updated](https://img.shields.io/github/last-commit/Red-Snow/phantomstrike?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/phantomstrike/commits)
 
 </td>
 <td width="50%" valign="top">
 
-### [AI-Malware-Analyzer](https://github.com/Red-Snow/AI-Malware-Analyzer)
+### 🔬 [AI-Malware-Analyzer](https://github.com/Red-Snow/AI-Malware-Analyzer)
 
-100% client-side DFIR platform — PE parsing, IOC extraction,
-MITRE ATT&CK mapping, PDF evidence reports.
+A complete DFIR workflow that never leaves the browser tab —
+PE parsing, IOC extraction, ATT&CK mapping, PDF evidence.
 
-`JavaScript` · `10+ LLM engines` · `Zero-backend`
+<sub>`JavaScript` · `10+ LLM engines` · `zero-backend`</sub>
 
 [![Stars](https://img.shields.io/github/stars/Red-Snow/AI-Malware-Analyzer?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/AI-Malware-Analyzer/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/AI-Malware-Analyzer?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/AI-Malware-Analyzer/commits)
+[![Updated](https://img.shields.io/github/last-commit/Red-Snow/AI-Malware-Analyzer?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/AI-Malware-Analyzer/commits)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [StegInsight-Forensics](https://github.com/Red-Snow/StegInsight-Forensics)
+### 🕵️ [StegInsight-Forensics](https://github.com/Red-Snow/StegInsight-Forensics)
 
 Steganography detection across text, image and audio/video
-carriers, built for forensic triage.
+carriers, built for fast forensic triage.
 
-`TypeScript` · `DSP` · `Entropy analysis`
+<sub>`TypeScript` · `DSP` · `entropy analysis`</sub>
 
 [![Stars](https://img.shields.io/github/stars/Red-Snow/StegInsight-Forensics?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/StegInsight-Forensics/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/StegInsight-Forensics?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/StegInsight-Forensics/commits)
+[![Updated](https://img.shields.io/github/last-commit/Red-Snow/StegInsight-Forensics?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/StegInsight-Forensics/commits)
 
 </td>
 <td width="50%" valign="top">
 
-### [redsnow-recon-toolkit](https://github.com/Red-Snow/redsnow-recon-toolkit)
+### 🌐 [redsnow-recon-toolkit](https://github.com/Red-Snow/redsnow-recon-toolkit)
 
-Browser-based recon and OSINT simulation lab with interactive
-threat analysis and an AI cyber mentor.
+A browser-based recon and OSINT lab — interactive threat
+analysis, simulated probes, and an AI cyber mentor.
 
-`TypeScript` · `OSINT` · `LLM`
+<sub>`TypeScript` · `OSINT` · `LLM`</sub>
 
 [![Stars](https://img.shields.io/github/stars/Red-Snow/redsnow-recon-toolkit?style=flat-square&logo=github&color=FF3333&labelColor=0d1117)](https://github.com/Red-Snow/redsnow-recon-toolkit/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Red-Snow/redsnow-recon-toolkit?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/redsnow-recon-toolkit/commits)
+[![Updated](https://img.shields.io/github/last-commit/Red-Snow/redsnow-recon-toolkit?style=flat-square&color=FF3333&labelColor=0d1117&label=updated)](https://github.com/Red-Snow/redsnow-recon-toolkit/commits)
 
 </td>
 </tr>
@@ -100,203 +96,145 @@ threat analysis and an AI cyber mentor.
 
 ---
 
-## PhantomStrike — AI-Powered MCP Pentesting Framework
+## How PhantomStrike Works
 
-<div align="center">
+> One sentence from the operator becomes a chained, multi-tool engagement —
+> and comes back as parsed JSON, not scrollback.
 
-> Connect **any MCP-compatible AI agent** to a full Kali Linux environment.<br/>
-> Natural language → structured, multi-step penetration tests. No terminal switching. No manual chaining.
+```mermaid
+flowchart LR
+    U(["Operator"]) -->|plain English| A["AI Agent<br/><sub>Claude · Cursor · Copilot · Gemini</sub>"]
+    A <-->|MCP| P["PhantomStrike<br/><sub>FastAPI · async job queue</sub>"]
+    P --> R["Recon<br/><sub>nmap · rustscan · masscan</sub>"]
+    P --> W["Web<br/><sub>nuclei · sqlmap · ffuf · nikto</sub>"]
+    P --> O["OSINT<br/><sub>subfinder · amass</sub>"]
+    P --> S["run_kali_shell<br/><sub>any Kali command</sub>"]
+    R --> J["Structured JSON<br/><sub>+ SQLite scan history</sub>"]
+    W --> J
+    O --> J
+    S --> J
+    J -->|findings| A
 
-</div>
-
-```text
- User   →  "Scan 192.168.1.1 for open ports, then audit all web services for SQLi."
- Agent  →  nmap (recon) → nikto (web audit) → sqlmap (injection) → structured report ✓
+    classDef core stroke:#FF3333,stroke-width:2px
+    classDef tool stroke:#8B949E,stroke-width:1px
+    class A,P,J core
+    class R,W,O,S tool
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+"Scan 192.168.1.1 for open ports, then audit every web service for SQLi."
 
-**Supported AI clients**
-- Claude Desktop (macOS + Windows)
-- Cursor IDE (all platforms)
-- VS Code + GitHub Copilot
-- Gemini CLI
-- Any MCP-compatible agent
+  → nmap        discovers 22, 80, 8080
+  → nuclei      fingerprints two web stacks
+  → sqlmap      confirms injection on /search?q=
+  → report      severity-ranked JSON ✓
+```
 
-</td>
-<td width="50%" valign="top">
-
-**Key capabilities**
-- 12 structured plugins — parsed JSON output
-- `run_kali_shell` — any Kali command via AI
-- All-in-Kali · Split (Host+VM) · Docker deploy
-- Async job queue · SQLite scan history
-- FastAPI backend · OpenAPI docs
-
-</td>
-</tr>
-</table>
-
-| Category | Tools |
+|  | |
 |:--|:--|
-| **Network** | `nmap` · `rustscan` · `masscan` |
-| **Web App** | `nuclei` · `gobuster` · `sqlmap` · `ffuf` · `nikto` |
-| **OSINT** | `subfinder` · `amass` |
-| **Password** | `hydra` |
-| **Cloud** | `trivy` |
+| **Deploys as** | All-in-Kali · Split (Host + VM) · Docker |
+| **Speaks to** | Claude Desktop · Cursor · VS Code + Copilot · Gemini CLI · any MCP client |
+| **Ships with** | 12 structured plugins · async job queue · SQLite history · OpenAPI docs |
+| **Escape hatch** | `run_kali_shell` — any Kali command, driven by the agent |
 
 <div align="center">
 
-[![View PhantomStrike](https://img.shields.io/badge/→%20%20PhantomStrike%20on%20GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike)
+[![Explore PhantomStrike](https://img.shields.io/badge/explore_PhantomStrike-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike)
+&nbsp;
+[![Explore AI Malware Analyzer](https://img.shields.io/badge/explore_AI--Malware--Analyzer-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/AI-Malware-Analyzer)
 
 </div>
 
 ---
 
-## AI-Malware-Analyzer — Browser-Native Forensic Intelligence
-
-<div align="center">
-
-> A full DFIR workflow that never leaves the browser tab.<br/>
-> Analyzes binaries, extracts IOCs, maps MITRE ATT&CK, and generates professional forensic reports.
-
-</div>
-
-```text
- User   →  Uploads a suspicious executable
- Agent  →  Strings / PE headers → family classification → MITRE mapping → VirusTotal → PDF report ✓
-```
+## Toolkit
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td valign="middle" width="130"><b>Offensive</b></td><td>
 
-**Analysis engines**
-- Google Gemini (Flash · Pro · Lite)
-- OpenAI (GPT-4o · Turbo)
-- Anthropic Claude (Opus · Sonnet · Haiku)
-- Groq (Llama 3.3, ultra-fast)
-- DeepSeek · xAI Grok · Mistral · Qwen
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7192E?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td valign="middle"><b>AI / ML</b></td><td>
 
-**Key capabilities**
-- 100% client-side — no server, no upload
-- PE header parsing & entropy analysis
-- Offline malware KB (25+ families)
-- VirusTotal hash enrichment
-- A4 PDF reports · chain-of-custody tracking
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-</td>
-</tr>
+</td></tr>
+<tr><td valign="middle"><b>Platform</b></td><td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td></tr>
+<tr><td valign="middle"><b>Agents</b></td><td>
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B46C1?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td></tr>
 </table>
 
-<div align="center">
-
-[![View AI Malware Analyzer](https://img.shields.io/badge/→%20%20AI%20Malware%20Analyzer%20on%20GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/AI-Malware-Analyzer)
-
-</div>
-
 ---
 
-## Arsenal
-
-<div align="center">
-
-**Security & Offensive**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7192E?style=for-the-badge&labelColor=0d1117)
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Agent Ecosystem**
-
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B46C1?style=for-the-badge&labelColor=0d1117)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&labelColor=0d1117)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## Telemetry
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Red-Snow&theme=dark&background=0d1117&border=FF3333&ring=FF3333&fire=FF6666&currStreakLabel=FF3333&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
-
-</div>
-
----
-
-## Signal Intelligence
+## Current Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Physiological Deep Learning
-Convolution-augmented Transformer (Conformer) architectures for physiological
+**Agentic security & forensics**
+
+Autonomous recon → exploitation → reporting, with every tool
+returning structured output an agent can actually reason over.
+
+- LLM tool-chaining for pentest workflows
+- Natural-language execution layers over real binaries
+- Hidden-data detection across carriers
+
+</td>
+<td width="50%" valign="top">
+
+**Physiological deep learning**
+
+Convolution-augmented Transformer (Conformer) architectures for
 signal processing and assessment.
 
 - Automated signal decomposition
+- Hybrid neural architectures
 - Cross-validation on expansive datasets
-- Hybrid neural network architectures
-
-</td>
-<td width="50%" valign="top">
-
-### Agentic Security & Forensics
-AI-native offensive security and forensic analysis platforms — from autonomous
-recon to hidden-data detection.
-
-- LLM tool-chaining for pentest workflows
-- Natural-language execution layers
-- Steganography detection across carriers
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Red-Snow&theme=dark&hide_border=true&background=0D1117&border=FF3333&ring=FF3333&fire=FF6B6B&currStreakLabel=FF3333&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC" width="62%" alt="Contribution streak"/>
+
+</div>
+
 ---
 
 <div align="center">
 
-### Connect
+[![GitHub](https://img.shields.io/badge/@Red--Snow-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow)
+[![Open an issue](https://img.shields.io/badge/open_an_issue-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/issues)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Red--Snow-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow)
-[![Open an Issue](https://img.shields.io/badge/Open%20an%20Issue-FF3333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Red-Snow/phantomstrike/issues)
-
-<br/>
-
-*"The quieter you become, the more you are able to hear."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:FF0000&height=130&section=footer&animation=fadeIn" width="100%"/>
+<sub>*"The quieter you become, the more you are able to hear."*</sub>
 
 </div>
